@@ -15,7 +15,7 @@ const siteMetadata = {
   linkedin: 'https://www.linkedin.com/in/gregor-grigorjan',
   locale: 'en-US',
   blog: {
-    showAuthorInPosts: true
+    showAuthorInPosts: false
   },
   analytics: {
     // If you want to use an analytics provider you have to add it to the
