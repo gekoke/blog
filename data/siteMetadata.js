@@ -14,6 +14,9 @@ const siteMetadata = {
   github: 'https://github.com/gekoke',
   linkedin: 'https://www.linkedin.com/in/gregor-grigorjan',
   locale: 'en-US',
+  blog: {
+    showAuthorInPosts: true
+  },
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
