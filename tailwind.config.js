@@ -47,10 +47,12 @@ module.exports = {
             },
             code: {
               color: theme('colors.primary.500'),
+              backgroundColor: theme('colors.gray.800'),
               paddingLeft: '4px',
               paddingRight: '4px',
               paddingTop: '2px',
               paddingBottom: '2px',
+              borderRadius: '0.25rem',
             },
             'code::before': { content: 'none' },
             'code::after': { content: 'none' },
